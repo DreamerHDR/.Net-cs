@@ -1,0 +1,13 @@
+C:\NET\Laba11\Laba11\bin\Debug\Laba11.exe.config
+C:\NET\Laba11\Laba11\bin\Debug\Laba11.exe
+C:\NET\Laba11\Laba11\bin\Debug\Laba11.pdb
+C:\NET\Laba11\Laba11\obj\Debug\Laba11.csproj.AssemblyReference.cache
+C:\NET\Laba11\Laba11\obj\Debug\Laba11.csproj.SuggestedBindingRedirects.cache
+C:\NET\Laba11\Laba11\obj\Debug\Laba11.Form1.resources
+C:\NET\Laba11\Laba11\obj\Debug\Laba11.FormMobile.resources
+C:\NET\Laba11\Laba11\obj\Debug\Laba11.Properties.Resources.resources
+C:\NET\Laba11\Laba11\obj\Debug\Laba11.csproj.GenerateResource.cache
+C:\NET\Laba11\Laba11\obj\Debug\Laba11.csproj.CoreCompileInputs.cache
+C:\NET\Laba11\Laba11\obj\Debug\Laba11.exe
+C:\NET\Laba11\Laba11\obj\Debug\Laba11.pdb
+C:\NET\Laba11\Laba11\obj\Debug\Laba11.FormMaker.resources
