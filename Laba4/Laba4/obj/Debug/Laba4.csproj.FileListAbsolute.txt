@@ -1,0 +1,6 @@
+C:\NET\Laba4\Laba4\bin\Debug\Laba4.dll
+C:\NET\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\NET\Laba4\Laba4\obj\Debug\Laba4.csproj.AssemblyReference.cache
+C:\NET\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+C:\NET\Laba4\Laba4\obj\Debug\Laba4.dll
+C:\NET\Laba4\Laba4\obj\Debug\Laba4.pdb
