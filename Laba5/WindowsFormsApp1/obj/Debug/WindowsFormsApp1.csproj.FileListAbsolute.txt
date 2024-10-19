@@ -1,0 +1,16 @@
+C:\NET\Laba4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\NET\Laba4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\NET\Laba4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\NET\Laba4\WindowsFormsApp1\bin\Debug\Laba4.dll
+C:\NET\Laba4\WindowsFormsApp1\bin\Debug\Laba4.pdb
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CityForm.resources
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\NET\Laba4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SubscriberForm.resources
