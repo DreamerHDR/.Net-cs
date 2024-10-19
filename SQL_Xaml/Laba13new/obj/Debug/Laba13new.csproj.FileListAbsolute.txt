@@ -1,0 +1,17 @@
+C:\NET\Laba13new\Laba13new\bin\Debug\Laba13new.exe.config
+C:\NET\Laba13new\Laba13new\bin\Debug\Laba13new.exe
+C:\NET\Laba13new\Laba13new\bin\Debug\Laba13new.pdb
+C:\NET\Laba13new\Laba13new\obj\Debug\Laba13new.csproj.AssemblyReference.cache
+C:\NET\Laba13new\Laba13new\obj\Debug\Laba13new.csproj.SuggestedBindingRedirects.cache
+C:\NET\Laba13new\Laba13new\obj\Debug\MainWindow.g.cs
+C:\NET\Laba13new\Laba13new\obj\Debug\App.g.cs
+C:\NET\Laba13new\Laba13new\obj\Debug\Laba13new_MarkupCompile.cache
+C:\NET\Laba13new\Laba13new\obj\Debug\Laba13new_MarkupCompile.lref
+C:\NET\Laba13new\Laba13new\obj\Debug\MainWindow.baml
+C:\NET\Laba13new\Laba13new\obj\Debug\Laba13new.g.resources
+C:\NET\Laba13new\Laba13new\obj\Debug\Laba13new.Properties.Resources.resources
+C:\NET\Laba13new\Laba13new\obj\Debug\Laba13new.csproj.GenerateResource.cache
+C:\NET\Laba13new\Laba13new\obj\Debug\Laba13new.csproj.CoreCompileInputs.cache
+C:\NET\Laba13new\Laba13new\obj\Debug\Laba13new.exe
+C:\NET\Laba13new\Laba13new\obj\Debug\Laba13new.pdb
+C:\NET\Laba13new\Laba13new\obj\Debug\GeneratedInternalTypeHelper.g.cs
