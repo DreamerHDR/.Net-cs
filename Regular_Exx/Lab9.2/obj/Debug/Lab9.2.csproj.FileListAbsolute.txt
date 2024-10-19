@@ -1,0 +1,8 @@
+C:\NET\Lab9.2\Lab9.2\bin\Debug\Lab9.2.exe.config
+C:\NET\Lab9.2\Lab9.2\bin\Debug\Lab9.2.exe
+C:\NET\Lab9.2\Lab9.2\bin\Debug\Lab9.2.pdb
+C:\NET\Lab9.2\Lab9.2\obj\Debug\Lab9.2.csproj.AssemblyReference.cache
+C:\NET\Lab9.2\Lab9.2\obj\Debug\Lab9.2.csproj.SuggestedBindingRedirects.cache
+C:\NET\Lab9.2\Lab9.2\obj\Debug\Lab9.2.csproj.CoreCompileInputs.cache
+C:\NET\Lab9.2\Lab9.2\obj\Debug\Lab9.2.exe
+C:\NET\Lab9.2\Lab9.2\obj\Debug\Lab9.2.pdb
