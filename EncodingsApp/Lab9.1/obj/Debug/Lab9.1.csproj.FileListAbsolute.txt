@@ -1,0 +1,11 @@
+C:\NET\Lab9.1\Lab9.1\bin\Debug\Lab9.1.exe.config
+C:\NET\Lab9.1\Lab9.1\bin\Debug\Lab9.1.exe
+C:\NET\Lab9.1\Lab9.1\bin\Debug\Lab9.1.pdb
+C:\NET\Lab9.1\Lab9.1\obj\Debug\Lab9.1.csproj.AssemblyReference.cache
+C:\NET\Lab9.1\Lab9.1\obj\Debug\Lab9.1.csproj.SuggestedBindingRedirects.cache
+C:\NET\Lab9.1\Lab9.1\obj\Debug\Lab9._1.Form1.resources
+C:\NET\Lab9.1\Lab9.1\obj\Debug\Lab9._1.Properties.Resources.resources
+C:\NET\Lab9.1\Lab9.1\obj\Debug\Lab9.1.csproj.GenerateResource.cache
+C:\NET\Lab9.1\Lab9.1\obj\Debug\Lab9.1.csproj.CoreCompileInputs.cache
+C:\NET\Lab9.1\Lab9.1\obj\Debug\Lab9.1.exe
+C:\NET\Lab9.1\Lab9.1\obj\Debug\Lab9.1.pdb
