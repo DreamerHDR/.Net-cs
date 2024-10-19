@@ -1,0 +1,11 @@
+C:\NET\Laba7\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\NET\Laba7\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\NET\Laba7\WindowsFormsControlLibrary1\bin\Debug\Laba4.dll
+C:\NET\Laba7\WindowsFormsControlLibrary1\bin\Debug\Laba4.pdb
+C:\NET\Laba7\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.AssemblyReference.cache
+C:\NET\Laba7\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\NET\Laba7\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\NET\Laba7\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\NET\Laba7\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CopyComplete
+C:\NET\Laba7\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\NET\Laba7\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
