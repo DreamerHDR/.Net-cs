@@ -1,0 +1,16 @@
+C:\NET\Lab10\Client\bin\Debug\Client.exe.config
+C:\NET\Lab10\Client\bin\Debug\Client.exe
+C:\NET\Lab10\Client\bin\Debug\Client.pdb
+C:\NET\Lab10\Client\bin\Debug\ClassLibraryBank.dll
+C:\NET\Lab10\Client\bin\Debug\Newtonsoft.Json.dll
+C:\NET\Lab10\Client\bin\Debug\ClassLibraryBank.pdb
+C:\NET\Lab10\Client\bin\Debug\Newtonsoft.Json.xml
+C:\NET\Lab10\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\NET\Lab10\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\NET\Lab10\Client\obj\Debug\Client.Form1.resources
+C:\NET\Lab10\Client\obj\Debug\Client.Properties.Resources.resources
+C:\NET\Lab10\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\NET\Lab10\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\NET\Lab10\Client\obj\Debug\Client.csproj.CopyComplete
+C:\NET\Lab10\Client\obj\Debug\Client.exe
+C:\NET\Lab10\Client\obj\Debug\Client.pdb

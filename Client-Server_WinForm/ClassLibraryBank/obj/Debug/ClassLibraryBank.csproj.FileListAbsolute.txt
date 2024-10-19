@@ -1,0 +1,9 @@
+C:\NET\Lab10\ClassLibraryBank\bin\Debug\ClassLibraryBank.dll
+C:\NET\Lab10\ClassLibraryBank\bin\Debug\ClassLibraryBank.pdb
+C:\NET\Lab10\ClassLibraryBank\obj\Debug\ClassLibraryBank.csproj.AssemblyReference.cache
+C:\NET\Lab10\ClassLibraryBank\obj\Debug\ClassLibraryBank.csproj.CoreCompileInputs.cache
+C:\NET\Lab10\ClassLibraryBank\obj\Debug\ClassLibraryBank.dll
+C:\NET\Lab10\ClassLibraryBank\obj\Debug\ClassLibraryBank.pdb
+C:\NET\Lab10\ClassLibraryBank\bin\Debug\Newtonsoft.Json.dll
+C:\NET\Lab10\ClassLibraryBank\bin\Debug\Newtonsoft.Json.xml
+C:\NET\Lab10\ClassLibraryBank\obj\Debug\ClassLibraryBank.csproj.CopyComplete
