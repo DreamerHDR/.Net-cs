@@ -1,0 +1,16 @@
+C:\NET\Laba12new\Laba12new\bin\Debug\Laba12new.exe.config
+C:\NET\Laba12new\Laba12new\bin\Debug\Laba12new.exe
+C:\NET\Laba12new\Laba12new\bin\Debug\Laba12new.pdb
+C:\NET\Laba12new\Laba12new\obj\Debug\Laba12new.csproj.AssemblyReference.cache
+C:\NET\Laba12new\Laba12new\obj\Debug\Laba12new.csproj.SuggestedBindingRedirects.cache
+C:\NET\Laba12new\Laba12new\obj\Debug\Laba12new.Form1.resources
+C:\NET\Laba12new\Laba12new\obj\Debug\Laba12new.Properties.Resources.resources
+C:\NET\Laba12new\Laba12new\obj\Debug\Laba12new.csproj.GenerateResource.cache
+C:\NET\Laba12new\Laba12new\obj\Debug\Laba12new.csproj.CoreCompileInputs.cache
+C:\NET\Laba12new\Laba12new\obj\Debug\Laba12new.exe
+C:\NET\Laba12new\Laba12new\obj\Debug\Laba12new.pdb
+C:\NET\Laba12new\Laba12new\bin\Debug\BouncyCastle.Cryptography.dll
+C:\NET\Laba12new\Laba12new\bin\Debug\itextsharp.dll
+C:\NET\Laba12new\Laba12new\bin\Debug\BouncyCastle.Cryptography.xml
+C:\NET\Laba12new\Laba12new\bin\Debug\itextsharp.xml
+C:\NET\Laba12new\Laba12new\obj\Debug\Laba12new.csproj.CopyComplete
